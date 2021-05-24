@@ -4,7 +4,7 @@ var options = {
   "method": "GET",
   "hostname": "cdn-api.co-vin.in",
   "port": null,
-  "path": "/api/v2/appointment/sessions/calendarByDistrict?district_id=504&date=24-05-2021",
+  "path": "/api/v2/appointment/sessions/public/calendarByDistrict?district_id=504&date=24-05-2021",
   "headers": {
     "cache-control": "no-cache"
   },
